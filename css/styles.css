@@ -1,0 +1,159 @@
+
+
+body{
+ margin:0;
+ text-align: center;
+ font-family: 'Merriweather',serif;
+}
+
+  .topcontainer{
+  background-color: #EAF6F6;
+    padding-top: 90px;
+  position: relative;
+
+}
+span{
+  text-decoration: underline;
+  color: #66BFBF;
+}
+.brief{
+  font-size: 1rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+.ch{
+  text-align: center;
+  margin:0 auto 80px auto;
+  width:30%;
+  color: #40514E;
+}
+hr{
+  border-style: dotted;
+  border-width: 10px 0 0 0;
+  color:grey;
+  width:5%;
+  margin-bottom: 80px;
+}
+h1{
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-size: 90px;
+ font-family: 'Sacramento',serif;
+  color:  #66BFBF;
+
+}
+h2{
+ font-family: 'Merriweather',serif;
+ color: #66BFBF;
+ font-size: 2rem;
+}
+h3{
+  color: #11999E;
+  margin: 50px auto 50px auto;
+}
+a{
+  color: #11999E;
+}
+.skill-row1{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.skill-row2{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: right;
+  line-height: 2;
+
+}
+.middlecontainer{
+
+}
+
+.bottom-container{
+  margin:50px 0 0 0;
+background-color: #66BFBF;
+padding-top: 50px;
+}
+.fin{
+  margin-top: 30px;
+  margin-bottom: 0;
+  padding-bottom: 30px;
+  color:#EAF6F6;
+}
+.footer-link{
+  color: #11999E;
+  margin:20px 20px 20px 20px;
+}
+.i1{
+  width:25%;
+  margin-right: 20px;
+  float: left;
+}
+.i2{
+  width:25%;
+  margin-left: 20px;
+  float: right;
+}
+
+.top-cloud{
+  position:absolute;
+  right: 300px;
+  top: 50px;
+}
+.myButton {
+	box-shadow: 0 1px 0 0 #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+	border-radius:6px;
+	border:1px solid #089dfa;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:18px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0 -1px 0 #5b6178;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.myButton {
+	box-shadow: 0 1px 0 0 #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+	border-radius:6px;
+	border:1px solid #089dfa;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:18px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0 -1px 0 #5b6178;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom-cloud{
+  position:absolute;
+  left: 300px;
+  bottom: 300px;
+}
