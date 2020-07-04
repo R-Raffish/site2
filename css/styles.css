@@ -9,6 +9,7 @@ body{
   .topcontainer{
   background-color: #EAF6F6;
     padding-top: 90px;
+    margin-bottom: 50px;
   position: relative;
 
 }
@@ -53,6 +54,10 @@ h3{
 }
 a{
   color: #11999E;
+  text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
 }
 .skill-row1{
   width:50%;
